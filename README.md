@@ -7,13 +7,6 @@ O **Cinestesia** é um projeto desenvolvido em C++ para a disciplina de Estrutur
 
 O projeto consiste em um sistema em modo console para um "Barzinho", que apresenta um cardápio digital completo e funções de gerenciamento no estilo **CRUD (Create, Read, Update, Delete)**.
 
-## Integrantes
-* Clarissa Honório
-* Jaiane Evilásio
-* Lavinya Costa
-* Luciano Paixão
-* Marcos Silva
-
 ## Estrutura do Projeto 
 ```
 Barzinho_C-/
@@ -115,3 +108,4 @@ Se você não estiver usando o Qt Creator, pode compilar o projeto manualmente p
 ---
 
 ## 
+
