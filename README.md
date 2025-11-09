@@ -92,35 +92,67 @@ O projeto segue um modelo orientado a objetos, com herança e polimorfismo entre
 ## 🗂️ 5. Estrutura de Arquivos
 
 Barzinho_C-/
+
 ├── .qtcreator/
+
 │ └── CMakeLists.txt.user
+
 ├── .gitignore
+
 ├── Aperitivo.h
+
 ├── Barzinho.cpp
-├── Barzinho.h
+
 ├── barzinho.db
+
+├── Barzinho.h
+
 ├── barzinhoterminal.exe
+
 ├── Bebidas.h
+
 ├── Cliente.cpp
+
 ├── Cliente.h
+
 ├── CMakeLists.txt
+
+├── CMakeLists.txt.user
+
 ├── main.cpp
+
 ├── mainterminal.cpp
+
 ├── mainwindow.cpp
+
 ├── mainwindow.h
+
 ├── mainwindow.ui
+
 ├── Pedido.cpp
+
 ├── Pedido.h
+
 ├── Produto.h
+
 ├── README.md
+
 ├── sqlite3.c
+
 ├── sqlite3.h
+
 ├── sqlite3.o
+
 ├── telacardapio.cpp
+
 ├── telacardapio.h
+
 ├── telacardapio.ui
+
 ├── telafinal.cpp
+
 ├── telafinal.h
+
 └── telafinal.ui
 
 ## 🧠 6. Conclusão
