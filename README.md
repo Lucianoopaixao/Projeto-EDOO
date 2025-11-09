@@ -102,22 +102,28 @@ Nesta seção, apresentamos o funcionamento do programa através de capturas de 
    <img width="419" height="398" alt="image" src="https://github.com/user-attachments/assets/f436e27a-3765-4e39-a1f1-208d64bea417" />
 
 
-3. Segunda tela - Cardápio.
+
+
+
+2. Segunda tela - Cardápio.
     <img width="371" height="367" alt="image" src="https://github.com/user-attachments/assets/192b4b3b-9219-423d-ad7a-e414882ce4b4" />
 
 
-4. Terceira tela – Pedido adicionado.
+
+ 
+3. Terceira tela – Pedido adicionado.
     <img width="350" height="355" alt="image" src="https://github.com/user-attachments/assets/972d0cc7-d9d5-4ad8-a114-c02816bd7db9" />
 
 
 
 
-5. Tela final - Visualização de um Pedido Finalizado.
+
+4. Tela final - Visualização de um Pedido Finalizado.
     <img width="409" height="334" alt="image" src="https://github.com/user-attachments/assets/32f3ce7e-2903-4d2e-a2b5-5024976c741c" />
 
 
 
-6. Estrutura de Arquivos
+5. Estrutura de Arquivos
 
 A estrutura de diretórios do projeto final está organizada da seguinte forma:
 
@@ -134,8 +140,6 @@ Barzinho_C-/
 ├── Barzinho.cpp
 
 ├── barzinho.db
-
-├── barzinho.exe
 
 ├── Barzinho.h
 
@@ -167,8 +171,6 @@ Barzinho_C-/
 
 ├── Produto.h
 
-├── programa.exe
-
 ├── README.md
 
 ├── sqlite3.c
@@ -190,7 +192,7 @@ Barzinho_C-/
 └── telafinal.ui
 
 
-5. Conclusão
+6. Conclusão
 
 O desenvolvimento do projeto "Cinestesia" permitiu a aplicação prática e a solidificação dos conceitos de Estrutura de Dados e Orientação a Objetos. A utilização de herança e polimorfismo mostrou-se fundamental para a criação de um cardápio flexível e extensível, enquanto o gerenciamento explícito de memória com new e delete foi um desafio central que exigiu um design cuidadoso de "propriedade" dos objetos.
 
